@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    text-align: center  ;
+    background-color: #F6F1F1;
+    font-family: "nunito";
+    
+}
+
+.titulo{
+    margin-top: 5%;
+    color: #6C5B7B;
+}
+.titulo:hover{
+    text-decoration: dashed;
+    text-decoration-color: black;
+}
+
+.parteTexto{
+    margin-bottom: 20px;
+}
+
+.texto{
+}
+
+.guardar{
+    background-color: #7BC67B;
+    border: none;
+    border-radius: 3px;
+}
+.reproductorv{
+    border-radius: 20px;
+}
+.reproductorB{
+
+}
+.guardar:hover{
+    background-color: #66B566;
+}
+
+.lista{
+    background-color: #FFF8F8;
+}
+
+.tarea{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #FFFDFD;
+}
+
+
+.marcador{
+margin-right: 10px;
+border-radius: 30px;
+}
+
+.borrar{
+    margin-left: 30px;
+    background-color: #E78A8A;
+    border: none;
+    border-radius: 3px;
+}
+.borrar:hover{
+    background-color:#D46F6F ;
+}
+
+.borrarTodo{
+    margin-top: 40px;
+    background-color: #E78A8A;
+    border: none;
+    border-radius: 3px;
+}
+.borrarTodo:hover{
+    background-color: #D46F6;
+}
