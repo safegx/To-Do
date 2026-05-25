@@ -1,9 +1,8 @@
 body{
     margin: 0;
-    text-align: center  ;
+    text-align: center;
     background-color: #F6F1F1;
     font-family: "nunito";
-    
 }
 
 .titulo{
@@ -27,12 +26,6 @@ body{
     border: none;
     border-radius: 3px;
 }
-.reproductorv{
-    border-radius: 20px;
-}
-.reproductorB{
-
-}
 .guardar:hover{
     background-color: #66B566;
 }
@@ -48,10 +41,9 @@ body{
     background-color: #FFFDFD;
 }
 
-
 .marcador{
-margin-right: 10px;
-border-radius: 30px;
+    margin-right: 10px;
+    border-radius: 30px;
 }
 
 .borrar{
@@ -61,7 +53,7 @@ border-radius: 30px;
     border-radius: 3px;
 }
 .borrar:hover{
-    background-color:#D46F6F ;
+    background-color:#D46F6F;
 }
 
 .borrarTodo{
